@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="BR">
+<header>
+      <meta charset=" utf-8">
+      <meta name=" viewport">
+      content="width=device-whdth",
+      <initial- acale="1.0">
+        href="styles. css">
+       </header> 
+    </body>
+         <header>
+             <h1> Educação e Capacidade Agriícola</h1>
+             <p> Transformando o Futuro da Agriícola através d Educação</p>
+             </header>
+             <nav>
+                <ul>
+                     <li><a
+                        href="#inicio"></a></li>
+                         <li><a
+                        href="#sobre inicio">inicio</a></li>
+                         <li><a
+                        href="#cursos">cursos</a></li>
+                         <li><a
+                        href="#eventos">eventos</a></li>
+                         <li><a
+                        href="#contato">contatos</a></li>
+                         <ul>
+                    </nav>
+                    <div class="content">
+                        <section id="inicio">
+                  <class="section">
+                     <h2> Bem- vindo</h2>
+                     <p> Nosso objetivo é fornecer Educaçãode qualidade e capacitação para Agricultores, ajudando-os a melhorsuas práticas e tecnologicas disponíveis.
+                         Nossa missão é transformar a agricultura, tornando-a mais sustentavies e efciente,</p>
+                     </section>
+                     <section id="cursos">
+              class</section>
+                       <h2Crsos Disponiveis ></h2Crsos>
+                        <p> oferecemos uma vaiedade de crusos para atnder ás necessidade dos agricultores:</p> <ul>
+                     
